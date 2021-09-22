@@ -13,4 +13,7 @@ print(c2, c1) : 변수 여러개를 쉼표를 기준으로 공백을 두고 출�
 print(s, s, s) :한 줄에 공백을 두고 여러번 출력
 input().split(':') : 입력 받은 값을 콜론 기호를 기준으로 자름
 print(a, b, sep=':') : 콜론 기호를 사이에 두고 a와 b 출력
+for i in range(len(s)):
+    print(s[i])
+        : s의 글자 수만큼 i번째 글자를 한 줄씩 출력
 '''
