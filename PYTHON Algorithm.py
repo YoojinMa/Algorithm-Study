@@ -16,4 +16,5 @@ print(a, b, sep=':') : 콜론 기호를 사이에 두고 a와 b 출력
 for i in range(len(s)):
     print(s[i])
         : s의 글자 수만큼 i번째 글자를 한 줄씩 출력
+s[a:b] : s라는 단어에서 a번째 문자부터 b-1번째 문자까지 잘라낸 부분
 '''
