@@ -25,4 +25,5 @@ print(-n) : n의 부호(+/-) 바꿔서 출력
 print(w * int(n)) : 문자열 w를 n번만큼 출력
 print(a ** b) : a를 b만큼 거듭제곱한 값 출력 (^ 아님 주의!)
 print(a // b) : a를 b로 나눈 몫 출력
+print(a % b) : a를 b로 나눈 나머지 출력
 '''
