@@ -38,4 +38,5 @@ print(format(a, ".2f")) : 실수 a를 소수점 두 번째 자리(".2f")까지 �
 print(bool(a)) : a가 0이면 False, 0이 아니면 True 출력
 print(not a) : a가 False이면 반대인 True 출력, True면 False 출력
 print(~ a) : a를 비트단위로 참/거짓을 바꾼 후 정수로 출력
+print(a & b) : a와 b를 비트단위로 and 연산한 후 그 결과를 정수로 출력
 '''
