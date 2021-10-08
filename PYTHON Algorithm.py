@@ -37,4 +37,5 @@ print(format(a, ".2f")) : 실수 a를 소수점 두 번째 자리(".2f")까지 �
     print(n>>2) : 10을 반으로 나눈 후 다시 반으로 나눈 값인 2가 출력된다.
 print(bool(a)) : a가 0이면 False, 0이 아니면 True 출력
 print(not a) : a가 False이면 반대인 True 출력, True면 False 출력
+print(~ a) : a를 비트단위로 참/거짓을 바꾼 후 정수로 출력
 '''
